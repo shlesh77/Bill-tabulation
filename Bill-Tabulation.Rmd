@@ -484,27 +484,3 @@ equation <- paste("cumulative billed usage percent =", round(a, 2), "/", "(1 +",
 cat("Equation of the fitted curve is:", "\n" , equation, "\n")
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
